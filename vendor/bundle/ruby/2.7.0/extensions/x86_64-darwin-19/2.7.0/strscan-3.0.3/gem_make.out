@@ -1,0 +1,16 @@
+current directory: /Users/nakamura_m/Documents/GitHub/chibi-sns/vendor/bundle/ruby/2.7.0/gems/strscan-3.0.3/ext/strscan
+/Users/nakamura_m/.rbenv/versions/2.7.6/bin/ruby -I /Users/nakamura_m/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20220513-30342-18aomc0.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/nakamura_m/Documents/GitHub/chibi-sns/vendor/bundle/ruby/2.7.0/gems/strscan-3.0.3/ext/strscan
+make "DESTDIR=" clean
+
+current directory: /Users/nakamura_m/Documents/GitHub/chibi-sns/vendor/bundle/ruby/2.7.0/gems/strscan-3.0.3/ext/strscan
+make "DESTDIR="
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/nakamura_m/Documents/GitHub/chibi-sns/vendor/bundle/ruby/2.7.0/gems/strscan-3.0.3/ext/strscan
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20220513-30342-1sgzko5
